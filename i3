@@ -1,0 +1,1 @@
+/home/yazo/.config/i3
