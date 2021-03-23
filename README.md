@@ -11,13 +11,10 @@ Welcome to my rice files for my desktop environment applications:
 You will need to install some fonts for everything to look pretty
 
 Font for Polybar
-
 [**Hack Font**](https://sourcefoundry.org/hack/)
 
 Polybar Icons
-
 [**Font Awesome**](https://fontawesome.com/download)
 
-Font for terminal
-
+Terminal font
 [**Roboto Mono**](https://fonts.google.com/specimen/Roboto+Mono?preview.text_type=custom)
